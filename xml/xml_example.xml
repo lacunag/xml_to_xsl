@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Ejemplo>
+    <Beneficiario>
+        <Nombre>Nombre Ejemplo</Nombre>
+        <FecNacimiento>1968/01/18</FecNacimiento>
+        <Edad>50</Edad>
+        <Sexo>F</Sexo>
+		<Cedula>000000000-0</Cedula>
+    </Beneficiario>
+    <Servicios>
+        <Servicio>
+            <Descripcion>Servicio de prueba 1</Descripcion>
+			<Monto>10000</Monto>
+			<Descuento>1000</Descuento>
+			<Otro>1000</Otro>
+        </Servicio>
+		<Servicio>
+            <Descripcion>Servicio de prueba 2</Descripcion>
+			<Monto>20000</Monto>
+			<Descuento>1500</Descuento>
+			<Otro>1000</Otro>
+        </Servicio>
+    </Servicios>
+</Ejemplo>
